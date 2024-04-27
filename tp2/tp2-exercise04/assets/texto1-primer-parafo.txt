@@ -1,0 +1,7 @@
+Los sistemas recomendadores son herramientas enfocadas a ayudar a los usuarios a obtener 
+aquella información que mejor se corresponda con sus intereses y preferencias. Mientras que 
+un buscador habitual se centra en encontrar aquello que el usuario solicita, un sistema 
+recomendador ayuda al usuario a tomar una decisión, que puede ser la compra de un 
+producto en un portal de comercio electrónico, la lectura de un libro, la revisión de un 
+artículo científico, el acceso a una página web en específico, o el estudio de determinado 
+recurso educativo en una plataforma virtual de aprendizaje.
